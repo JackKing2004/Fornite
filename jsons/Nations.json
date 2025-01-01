@@ -6,8 +6,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "You are the Order Empire.",
-		"startIntroPart2": "So.... Hello.",
+		"startIntroPart1": "You are surrounded by discriminate nations devoted to their individual technology and struggle for dominance.",
+		"startIntroPart2": "You are the leader of the nation called 'Order', and your way is of peace and knowledge. your people do not worship their weapons as gods. This makes you a mark for infiltration by the surrounding nations. Your only chance to defend is to attack first, and obtain the technology from each nation along the way.",
 		
 		"declaringWar": "Surrender while you can."
 		"attacked": "You're trying to invade me? hahaha",
