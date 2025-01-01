@@ -6,7 +6,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Hello there, little nation.",
+		"startIntroPart1": "You are the Order Empire.",
 		"startIntroPart2": "So.... Hello.",
 		
 		"declaringWar": "Surrender while you can."
@@ -27,8 +27,8 @@
 		"afterPeace": "Peace for now...",
 		"tradeRequest": "Trade offer. You recieve: nothing. I recieve: your territory.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [222,148,64],
+		"innerColor": [16,16,16], 
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Asgaron","Incus","Sarea","Orrofalas","Tile","Trusca","Peria","Frentani","Lucania",
 			"Aequia","Soresia","Salton"]
